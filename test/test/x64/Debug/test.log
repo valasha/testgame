@@ -1,2 +1,2 @@
-﻿  main.cpp
-C:\Users\zivaa\MyProjectVisualStudio\test\main.cpp(50,40): error C2065: fragmentShaderSource: необъявленный идентификатор
+﻿  glad.c
+/AllComponent/src/glad.c(1,1): error C1083: Не удается открыть файл источник: ..\..\AllComponent\src\glad.c: No such file or directory,

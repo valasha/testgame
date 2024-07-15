@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zivaa\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\testgame\\test\\",
+  "WorkspaceRootPath": "C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A4D4A45-7BC1-4B7B-A591-ABB1E66073CE}|test.vcxproj|C:\\Users\\zivaa\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\testgame\\test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5A4D4A45-7BC1-4B7B-A591-ABB1E66073CE}|test.vcxproj|C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5A4D4A45-7BC1-4B7B-A591-ABB1E66073CE}|test.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4D4A45-7BC1-4B7B-A591-ABB1E66073CE}|test.vcxproj|C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A4D4A45-7BC1-4B7B-A591-ABB1E66073CE}|test.vcxproj|solutionrelative:shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4D4A45-7BC1-4B7B-A591-ABB1E66073CE}|test.vcxproj|C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A4D4A45-7BC1-4B7B-A591-ABB1E66073CE}|test.vcxproj|solutionrelative:shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,20 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\zivaa\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\testgame\\test\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\zivaa\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\testgame\\test\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-15T12:30:22.188Z",
+              "DocumentIndex": 2,
+              "Title": "shader.frag",
+              "DocumentMoniker": "C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\shader.frag",
+              "RelativeDocumentMoniker": "shader.frag",
+              "ToolTip": "C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\shader.frag",
+              "RelativeToolTip": "shader.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-15T12:36:26.991Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shader.vert",
+              "DocumentMoniker": "C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\shader.vert",
+              "RelativeDocumentMoniker": "shader.vert",
+              "ToolTip": "C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\shader.vert",
+              "RelativeToolTip": "shader.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-15T12:36:09.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\zivaa\\MyProjectVisualStudio\\testgame\\test\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T12:30:22.188Z",
+              "EditorCaption": ""
             }
           ]
         }
