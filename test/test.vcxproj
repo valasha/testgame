@@ -147,7 +147,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="sh1.glsl" />
+    <None Include="..\..\..\..\..\MyProjectVisualStudio\test\shader.frag" />
+    <None Include="..\..\..\..\..\MyProjectVisualStudio\test\shader.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

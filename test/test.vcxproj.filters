@@ -26,7 +26,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="sh1.glsl">
+    <None Include="..\..\..\..\..\MyProjectVisualStudio\test\shader.frag">
+      <Filter>Исходные файлы\shaders</Filter>
+    </None>
+    <None Include="..\..\..\..\..\MyProjectVisualStudio\test\shader.vert">
       <Filter>Исходные файлы\shaders</Filter>
     </None>
   </ItemGroup>
